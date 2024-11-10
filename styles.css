@@ -94,7 +94,7 @@ main {
 }
 
 .image-container {
-    background-image: url(/images/bmw-6359790_1280.jpg);
+    background-image: url(./images/bmw-6359790_1280.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
